@@ -2,7 +2,7 @@ var express = require('express');
 var app = express();
 var db = require('./db');
 
-var UserController = require('Controllers/UserController');
+var UserController = require('./Controllers/UserController');
 app.use('/', UserController);
 
 var ProjectController = require('./Controllers/ProjectController');
