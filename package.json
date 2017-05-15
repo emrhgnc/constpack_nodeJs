@@ -2,7 +2,7 @@
   "name": "ConstpackAPIService",
   "version": "1.0.0",
   "description": "Constpack RestFUL api service",
-  "main": "app.js",
+  "main": "server.js",
     "engines": {
     "node": "6.9.4"
   },
