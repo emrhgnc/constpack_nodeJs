@@ -1,0 +1,28 @@
+{
+  "name": "ConstpackAPIService",
+  "version": "1.0.0",
+  "description": "Constpack RestFUL api service",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emrhgnc/constpack_nodejs.git"
+  },
+  "keywords": [
+    "Node.js",
+    "mongoDb"
+  ],
+  "author": "Emrah Genç",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrhgnc/constpack_nodejs/issues"
+  },
+  "homepage": "https://github.com/emrhgnc/constpack_nodejs",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.14.1",
+    "mongoose": "^4.1.2"
+  }
+}
