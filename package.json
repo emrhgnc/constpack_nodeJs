@@ -7,7 +7,6 @@
     "test": "mocha"
     "heroku-prebuild": "echo This runs before Heroku installs your dependencies.",
     "heroku-postbuild": "echo This runs afterwards."
-}
   },
   "repository": {
     "type": "git",
